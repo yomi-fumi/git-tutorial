@@ -1,2 +1,3 @@
 # Gitチュートリアル
  - featureA
+ - fix-B
